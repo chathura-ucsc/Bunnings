@@ -1,0 +1,12 @@
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\bin\Debug\netstandard2.0\ProductMerger.Data.deps.json
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\bin\Debug\netstandard2.0\ProductMerger.Data.dll
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\bin\Debug\netstandard2.0\ProductMerger.Data.pdb
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\bin\Debug\netstandard2.0\ProductMerger.Business.dll
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\bin\Debug\netstandard2.0\ProductMerger.Business.pdb
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.csprojAssemblyReference.cache
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.AssemblyInfoInputs.cache
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.AssemblyInfo.cs
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.csproj.CoreCompileInputs.cache
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.csproj.CopyComplete
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.dll
+C:\Users\Chathura Weerasuriya\Downloads\codingskills-main\Chathura\ProductMerger.Data\obj\Debug\netstandard2.0\ProductMerger.Data.pdb

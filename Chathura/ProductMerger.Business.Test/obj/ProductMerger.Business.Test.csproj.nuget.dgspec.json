@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codingskills-main\\Chathura\\ProductMerger.Business.Test\\ProductMerger.Business.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\codingskills-main\\Chathura\\ProductMerger.Business.Test\\ProductMerger.Business.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codingskills-main\\Chathura\\ProductMerger.Business.Test\\ProductMerger.Business.Test.csproj",
+        "projectName": "ProductMerger.Business.Test",
+        "projectPath": "D:\\codingskills-main\\Chathura\\ProductMerger.Business.Test\\ProductMerger.Business.Test.csproj",
+        "packagesPath": "C:\\Users\\Chathura Weerasuriya\\.nuget\\packages\\",
+        "outputPath": "D:\\codingskills-main\\Chathura\\ProductMerger.Business.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\NuGet.Config",
+          "C:\\Users\\Chathura Weerasuriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://buildserver.goodcompany.org/nuget/development/": {},
+          "https://buildserver.goodcompany.org/nuget/production/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\ProductMerger.Business.csproj": {
+                "projectPath": "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\ProductMerger.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\ProductMerger.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\ProductMerger.Business.csproj",
+        "projectName": "ProductMerger.Business",
+        "projectPath": "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\ProductMerger.Business.csproj",
+        "packagesPath": "C:\\Users\\Chathura Weerasuriya\\.nuget\\packages\\",
+        "outputPath": "D:\\codingskills-main\\Chathura\\ProductMerger.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\NuGet.Config",
+          "C:\\Users\\Chathura Weerasuriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://buildserver.goodcompany.org/nuget/development/": {},
+          "https://buildserver.goodcompany.org/nuget/production/": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
